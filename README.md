@@ -1,11 +1,11 @@
 
-# Hi there, I'm AKILIMAILI CIZUNGU Innocent <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm KIGHUNDILA WAKOMYA Chadrac <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <!--## I'm a Computer Science and Engineering Student  
 <!--
-**Innocent-Akim/Innocent-Akim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chadrac-WAKOMYA//Chadrac-WAKOMYA/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -75,10 +75,10 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/Innocent-Akim">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Innocent-Akim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Innocent-Akim&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Chadrac-WAKOMYA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chadrac-WAKOMYA/&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chadrac-WAKOMYA/&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-Credit: [Innocent-Akim](https://github.com/Innocent-Akim)
+Credit: [Innocent-Akim](https://github.com/Chadrac-WAKOMYA)
