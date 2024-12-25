@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/Chadrac-WAKOMYA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chadrac-WAKOMYA/&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chadrac-WAKOMYA/&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chadrac-WAKOMYA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chadrac-WAKOMYA&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
