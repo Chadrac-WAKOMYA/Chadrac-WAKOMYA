@@ -81,4 +81,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-Credit: [Innocent-Akim](https://github.com/Chadrac-WAKOMYA)
+Credit: [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA)
