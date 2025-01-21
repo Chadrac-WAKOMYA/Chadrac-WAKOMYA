@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="mail:chadracxx@gmail.com"><img src="https://img.shields.io/badge/-chadracxx@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/akiligentil99/"><img src="https://img.shields.io/badge/-ChadracWAKOMYA-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/Chadrac_WAKOMYA?t=9jskSjZgLlsjhvygM2DtUw&s=08"><img src="https://img.shields.io/badge/-ChadracWAKOMYA-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/akiligentil99/"><img src="https://img.shields.io/badge/-ChadracWAKOMYA-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://x.com/Chadrac_WAKOMYA?t=9jskSjZgLlsjhvygM2DtUw&s=08"><img src="https://img.shields.io/badge/-ChadracWAKOMYA-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Innocent-Akim&show_icons=true" alt="Innocent-Akim" /></p>
